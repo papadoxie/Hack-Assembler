@@ -1,6 +1,6 @@
 #!/bin/bash
 
-gcc main.c \
+gcc source/main.c \
 -o bin/assembler \
 source/OnStartup.c \
 source/Assembler.c \

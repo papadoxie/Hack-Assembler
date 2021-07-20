@@ -1,6 +1,6 @@
-#include "include/OnStartup.h"
-#include "include/Assembler.h"
-#include "include/Cleanup.h"
+#include "../include/OnStartup.h"
+#include "../include/Assembler.h"
+#include "../include/Cleanup.h"
 
 int main(int argc, char *argv[])
 {

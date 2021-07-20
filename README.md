@@ -2,13 +2,10 @@
 
 Hack Assembler written in C for the nand2tetris course.
 
-
-
 ## Compilation
 
 ```bash
-chmod +x compile.sh
-./compile.sh
+make all
 ```
 
 Binary will be generated in the bin folder
